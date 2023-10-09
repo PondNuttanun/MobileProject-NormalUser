@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource>
+    <string name="app_name">mosquito_project</string>
+    <string name="facebook_app_id">972315357324723</string>
+    <string name="fb_login_protocol_scheme">fb972315357324723</string>
+    <string name="facebook_client_token">7f6e63b08c8eee76941680fb060395f2</string>
+
+</resource>
